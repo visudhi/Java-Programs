@@ -1,3 +1,4 @@
+//pgm36 in a simple way
 package Intermediate_java_programs;
 
 import java.util.Scanner;
