@@ -28,8 +28,7 @@ public class pgm9
         while((n-i)!=1)
         {
             x=x*(n-i);
-            ++i;
-            
+            ++i;  
         } 
         System.out.println(x); 
     }
