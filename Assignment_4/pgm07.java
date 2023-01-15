@@ -1,6 +1,6 @@
 //Define a method to find out if a number is prime or not.
 import java.util.Scanner;
-public class pgm7
+public class pgm07
 {
 
     public static void main(String[] args)
