@@ -2,7 +2,7 @@
 //of radius entered by user by defining your own method.
 
 import java.util.Scanner;
-public class pgm6
+public class pgm06
  {
     public static void main(String[] args)
     {

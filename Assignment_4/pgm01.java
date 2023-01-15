@@ -1,7 +1,7 @@
 //Define two methods to print the maximum and the minimum number 
 //respectively among three numbers entered by the user.
 import java.util.Scanner;
-class pgm1
+class pgm01
 {
 public static void main(String[] args)
     {

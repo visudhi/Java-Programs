@@ -1,6 +1,6 @@
 //Define a program to find out whether a given number is even or odd.
 import java.util.Scanner;
-public class pgm2 {
+public class pgm02 {
     public static void main(String[] args)
     {
         Scanner sc= new Scanner(System.in);

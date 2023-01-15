@@ -1,7 +1,7 @@
 //Define a method that returns the product 
 //of two numbers entered by user.
 import java.util.Scanner;
-public class pgm5 
+public class pgm05 
 {
     public static void main(String[] args) 
     {
