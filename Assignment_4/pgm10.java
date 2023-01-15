@@ -1,5 +1,5 @@
 /* Write a function to find if a number is a palindrome or not.
- Take number as parameter. */
+ Take number as parameter.*/
 
 import java.util.Scanner;
 public class pgm10 
@@ -14,7 +14,7 @@ public class pgm10
     }
     static void palindrome(int x)
     {
-        int n=x,y,rev=0;
+        int n=x,y,rev=0; 
         while(x!=0)
         {
             y=x%10;
