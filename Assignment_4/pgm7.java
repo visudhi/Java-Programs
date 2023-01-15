@@ -28,14 +28,14 @@ public class pgm7
         }
         
 
-            if(count==0)
-            {
-                System.out.println("prime");
-            }
-            else
-            {
+        if(count==0)
+        {
+            System.out.println("prime");
+        }
+        else
+        {
             System.out.println("Not prime");
-            }
+        }
 
         
         
