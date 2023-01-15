@@ -21,7 +21,6 @@ public class pgm02 {
             System.out.println(x+" is an odd number");
            
         }
-      
         return x;
         
     }
