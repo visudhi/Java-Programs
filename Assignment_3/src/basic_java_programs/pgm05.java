@@ -4,7 +4,7 @@ package basic_java_programs;
 import java.util.Scanner;
 
 
-public class pgm5 {
+public class pgm05 {
     public static void main(String[] args) {
         double b,h;
         Scanner sc= new Scanner(System.in);

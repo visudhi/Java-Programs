@@ -3,7 +3,7 @@
 package basic_java_programs;
 import java.util.Scanner;
 
-public class pgm3 
+public class pgm03 
 {
         public static void main(String[] args) {
         double l,b;
