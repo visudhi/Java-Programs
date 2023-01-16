@@ -2,9 +2,6 @@
 
 package Intermediate_java_programs;
 import java.util.Scanner;
-
-
-
 public class pgm01 {
     static int factorial(int n){
         if(n==0)
