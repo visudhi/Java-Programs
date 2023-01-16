@@ -3,7 +3,7 @@
 package basic_java_programs;
 import java.util.Scanner;
 
-public class pgm8 {
+public class pgm08 {
     public static void main(String[] args) {
         double r,c;
         Scanner sc= new Scanner(System.in);

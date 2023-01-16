@@ -4,7 +4,7 @@ package basic_java_programs;
 import java.util.Scanner;
 
 
-public class pgm7 {
+public class pgm07 {
     public static void main(String[] args) {
         double area,s;
         Scanner sc = new Scanner(System.in);
