@@ -1,4 +1,4 @@
-public class pgm18 {
+public class pgm16_1 {
     public static void main(String[] args) {
         // System.out.println(345/10);
         // System.out.println(345%10);

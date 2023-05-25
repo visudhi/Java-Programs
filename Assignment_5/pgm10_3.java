@@ -1,4 +1,4 @@
-public class pgm12 {
+public class pgm10_3 {
     public static void main(String[] args) {
         System.out.println(checkIfPangram("leetcode"));
     }

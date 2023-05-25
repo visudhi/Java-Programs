@@ -1,4 +1,4 @@
-public class pgm16 {
+public class pgm14 {
     public static void main(String[] args) {
         int[][] indices={{0,1},{1,1}};
         System.out.println(oddCells(3,2,indices));
