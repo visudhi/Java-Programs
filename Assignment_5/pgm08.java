@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class pgm8 {
+public class pgm08 {
     public static void main(String[] args) {
         int[] nums={8,8,1,2,2,3};
         int ans[]=smallerNumbersThanCurrent(nums);

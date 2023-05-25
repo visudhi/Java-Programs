@@ -1,4 +1,4 @@
-public class pgm4{
+public class pgm04{
     public static void main(String[] args) {
         int[][] accounts = new int[][] {{1,2,3},{3,2,1}};
         
