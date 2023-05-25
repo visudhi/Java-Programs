@@ -1,7 +1,4 @@
-/*Plus One (https://leetcode.com/problems/plus-one/) */
-
-import java.util.ArrayList;
-import java.util.List;
+/* Plus One (problem link: https://leetcode.com/problems/plus-one/) */
 
 public class pgm26 {
     public static void main(String[] args) {
@@ -13,28 +10,16 @@ public class pgm26 {
         }
     }
 
-    public static int[] plusOne(int[] digits)
-        {
-        List<Integer> x= new ArrayList<Integer>();
-        int[] result= new int[digits.length];
-        int sum=0;
-    
-        for(int i=0;i<digits.length;i++)
-        {
-            if(digits.length==1)
-            {
-                x.add(digits[i]);
-                sum+=x.get(digits[i]);
-                System.out.println(sum);
+    public static int[] plusOne(int[] digits) {
+        for(int i=digits.length-1;i>=0;i--){
+            if(digits[i]<9){
+                digits[i]++;
+                return digits;
             }
-
+            digits[i]=0;
         }
-
-        return result;
-        }
-
-    
-
-
-
+        digits = new int[digits.length + 1];
+        digits[0] = 1;
+        return digits;
+   }
 }
