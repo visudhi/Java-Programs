@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class pgm9 {
+public class pgm10 {
     public static void main(String[] args) {
         System.out.println(checkIfPangram("thequickbrownfoxjumpsoverthelazydog"));
     }
