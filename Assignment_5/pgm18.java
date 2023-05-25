@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class pgm21 {
+public class pgm18 {
     public static void main(String[] args) {
         int[] arr={9,9,9,9,9,9,9,9,9,9};
         System.out.println(addToArrayForm(arr, 806));

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class pgm15 {
+public class pgm13 {
     public static void main(String[] args) {
         int[][] image={{1,1,0},{1,0,1},{0,0,0}};
        int x2[][]=flipAndInvertImage(image);

@@ -1,4 +1,4 @@
-public class pgm20 {
+public class pgm20_1 {
     public static void main(String[] args) {
         int[][] mat={{0,1},{1,1}};
         int[][] target={{1,0},{0,1}};

@@ -1,4 +1,4 @@
-public class pgm19 {
+public class pgm16 {
     public static void main(String[] args) {
         int[] nums={437,315,322,431,686,264,442};
         System.out.println(findNumbers(nums));
