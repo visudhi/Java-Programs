@@ -2,7 +2,12 @@
 public class pgm27_1 {
     public static void main(String[] args) {
         int [] x={1,1,2};
-        System.out.println(removeDuplicates(x));
+        int n= x.length;
+        n=removeDuplicates(x);
+        for(int i=0;i<n;i++)
+        {
+            System.out.println(x[i]+"");
+        }
     }
     public static int removeDuplicates(int[] nums) {
         int n= nums.length;

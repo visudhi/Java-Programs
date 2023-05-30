@@ -29,7 +29,7 @@ public class pgm27{
     }
     public static void main(String[] args)
     {
-        int a[] = { 1, 1, 2, 2, 2 };
+        int a[] = { 1, 2, 3};
         int n = a.length;
  
         n = removeduplicates(a, n);
