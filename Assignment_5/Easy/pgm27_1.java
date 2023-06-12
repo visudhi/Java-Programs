@@ -1,7 +1,10 @@
 /*Problem link: https://leetcode.com/problems/plus-one/  */
+
+import java.util.Arrays;
+
 public class pgm27_1 {
     public static void main(String[] args) {
-        int [] x={1,1,2};
+        int [] x={1,1,2,4,4,4,4,6,5,7};
         int n= x.length;
         n=removeDuplicates(x);
         for(int i=0;i<n;i++)
@@ -13,6 +16,7 @@ public class pgm27_1 {
         int n= nums.length;
         int[] temp=new int[n];
         int j=0;
+        Arrays.sort(nums);
         if(n==0 || n==1){
             return n;
         }
